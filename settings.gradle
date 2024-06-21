@@ -1,1 +1,5 @@
-rootProject.name = 'demo'
+rootProject.name = 'our_project'
+include 'module-admin'
+include 'module-manager'
+include 'module-web'
+include 'module-common'
